@@ -1,0 +1,38 @@
+1 || 9783161484100 || Book_1 || Author_1 || 1/8/2010 || 2625 || 0
+2 || 9783161484105 || Book_2 || Author_2 || 1/8/2014 || 0 || 0
+3 || 9783161484100 || Book_1 || Author_1 || 1/8/2010 || 0 || 0
+4 || 9783161484199 || Book_4 || Author_4 || 1/8/2014 || 0 || 1
+5 || 8888888888888 || Book_7 || Author_3 || 16/11/1999 || 0 || 0
+6 || 8888888888888 || Book_7 || Author_3 || 16/11/1999 || 1023 || 0
+7 || 8888888888888 || Book_7 || Author_3 || 16/11/1999 || 0 || 0
+8 || 8888888888888 || Book_7 || Author_3 || 16/11/1999 || 1023 || 0
+9 || 8888888888888 || Book_7 || Author_3 || 16/11/1999 || 0 || 0
+10 || 1 || Test Single Taken || Alan Wu || 01/01/1970 || 8000 || 0
+11 || 2 || Test Single Not Taken || Alan Wu || 01/01/1970 || 0 || 0
+12 || 3 || Test Multiple Taken || Alan Wu || 01/01/1970 || 8000 || 0
+13 || 3 || Test Multiple Taken || Alan Wu || 01/01/1970 || 8000 || 0
+14 || 3 || Test Multiple Taken || Alan Wu || 01/01/1970 || 8000 || 0
+15 || 4 || Test MultipleNot Taken || Alan Wu || 01/01/1970 || 0 || 0
+16 || 4 || Test MultipleNot Taken || Alan Wu || 01/01/1970 || 0 || 0
+17 || 4 || Test MultipleNot Taken || Alan Wu || 01/01/1970 || 0 || 0
+18 || 5 || Test Multiple Both || Alan Wu || 01/01/1970 || 8000 || 0
+19 || 5 || Test Multiple Both || Alan Wu || 01/01/1970 || 8000 || 0
+20 || 5 || Test Multiple Both || Alan Wu || 01/01/1970 || 8000 || 0
+21 || 5 || Test Multiple Both || Alan Wu || 01/01/1970 || 0 || 0
+22 || 5 || Test Multiple Both || Alan Wu || 01/01/1970 || 0 || 0
+23 || 6 || Test Check Out || Test || 01/01/1970 || 6666 || 0
+24 || 6 || Test Check Out || Test || 01/01/1970 || 1234 || 12
+25 || 6 || Test Check Out || Test || 01/01/1970 || 0 || 0
+26 || 6 || Test Check Out || Test || 01/01/1970 || 0 || 0
+27 || 6 || Test Check Out || Test || 01/01/1970 || 4278 || 0
+28 || 6 || Test Check Out || Test || 01/01/1970 || 1831 || 0
+29 || 7 || Test Return || Test2 || 01/01/1971 || 4629 || 0
+30 || 7 || Test Return || Test2 || 01/01/1992 || 4629 || 0
+31 || 7 || Test Return || Test2 || 01/01/1920 || 4629 || 0
+32 || 7 || Test Return || Test2 || 01/01/1980 || 0 || 0
+33 || 7 || Test Return || Test2 || 01/01/1990 || 0 || 0
+34 || 42923961 || biography || Alan Wu || 01/12/2020 || 0 || 0
+35 || 49726113 || biography || Alan wu || 02/12/2020 || 0 || 0
+36 || 124141 || bsnfkan || aadq || 02/12/2020 || 0 || 1
+37 || 124141 || bsnfkan || aadq || 02/12/2020 || 0 || 2
+38 || 124141 || bsnfkan || aadq || 02/12/2020 || 0 || 1

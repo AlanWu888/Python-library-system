@@ -1,0 +1,14 @@
+1 || 7467717100069 || The Da Vinci Code || Dan Brown || 01/01/2020 || 0 || 13
+2 || 7467717100069 || The Da Vinci Code || Dan Brown || 01/01/2020 || 0 || 7
+3 || 0373275421496 || New Moon || Stephenie Meyer || 01/01/2020 || 0019 || 9
+4 || 0373275421496 || New Moon || Stephenie Meyer || 01/01/2020 || 0314 || 9
+5 || 7467717100069 || The Da Vinci Code || Dan Brown || 02/01/2020 || 4321 || 9
+6 || 1932887634033 || The Gruffalo || Julia Donaldson || 02/01/2020 || 0 || 23
+7 || 1932887634033 || The Gruffalo || Julia Donaldson || 02/01/2020 || 2511 || 18
+8 || 4029471320520 || Birdsong || Sebastian Faulks || 03/01/2020 || 0 || 5
+9 || 4029471320520 || Birdsong || Sebastian Faulks || 03/01/2020 || 1214 || 2
+9 || 9674347936975 || Labyrinth || Kate Mosse || 04/01/2020 || 1732 || 2
+10 || 0130510706970 || Life of Pi || Yann Martell || 04/01/2020 || 9482 || 16
+11 || 0888888888888 || Drawing and marking graph diagrams || Firat Batmaz || 01/01/2009 || 0 || 9999
+12 || 1438107062949 || The Broker || John Grisham || 03/02/2020 || 0 || 1
+13 || 1438107062949 || The Broker || John Grisham || 03/02/2020 || 0 || 1
